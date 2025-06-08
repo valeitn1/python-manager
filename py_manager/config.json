@@ -1,0 +1,51 @@
+{
+  "manager_settings": {
+    "port": 8080,
+    "log_retention_days": 7,
+    "check_interval_seconds": 5,
+    "auto_restart_max_attempts": 3,
+    "auto_restart_delay_seconds": 10
+  },
+  "scripts": [
+    {
+      "id": "data_processor",
+      "name": "Data Processor",
+      "path": "scripts/data_processor.py",
+      "args": [],
+      "auto_restart": true,
+      "enabled": true,
+      "max_memory_mb": 512,
+      "log_file": "data_processor.log"
+    },
+    {
+      "id": "web_monitor",
+      "name": "Web Monitor",
+      "path": "scripts/web_monitor.py",
+      "args": [],
+      "auto_restart": false,
+      "enabled": true,
+      "max_memory_mb": 256,
+      "log_file": "web_monitor.log"
+    },
+    {
+      "id": "log_analyzer",
+      "name": "Log Analyzer",
+      "path": "scripts/log_analyzer.py",
+      "args": [],
+      "auto_restart": true,
+      "enabled": true,
+      "max_memory_mb": 256,
+      "log_file": "log_analyzer.log"
+    },
+    {
+      "id": "script_1f6837bb",
+      "name": "Example",
+      "path": "D:\\xampp\\htdocs\\mpy0\\scripts\\example.py",
+      "args": [],
+      "auto_restart": true,
+      "enabled": true,
+      "max_memory_mb": 512,
+      "log_file": "script_1f6837bb.log"
+    }
+  ]
+}
