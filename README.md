@@ -4,7 +4,7 @@
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-A powerful web-based tool for managing multiple Python scripts with real-time monitoring, logging, and control. Perfect for managing microservices, data pipelines, background jobs, or any collection of Python scripts.
+A web-based tool for managing multiple Python scripts with real-time monitoring, logging, and control. Perfect for managing microservices, data pipelines, background jobs, or any collection of Python scripts.
 
 ![Python Manager Dashboard](https://via.placeholder.com/800x400?text=Python+Manager+Dashboard)
 
