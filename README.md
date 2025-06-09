@@ -202,9 +202,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- Create an [Issue](https://github.com/yourusername/python-manager/issues) for bug reports or feature requests
-- Check the [Wiki](https://github.com/yourusername/python-manager/wiki) for detailed documentation
-- Join our [Discussions](https://github.com/yourusername/python-manager/discussions) for community support
+- Create an [Issue](https://github.com/prismatex/python-manager/issues) for bug reports or feature requests
+- Check the [Wiki](https://github.com/prismatex/python-manager/wiki) for detailed documentation
+- Join our [Discussions](https://github.com/prismatex/python-manager/discussions) for community support
 
 ## 🚧 Roadmap
 
